@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Ipinmi's github stats](https://github-readme-stats.vercel.app/api?username=ipinmi&show_icons=true&theme=radical)](https://github.com/ipinmi/github-readme-stats)
