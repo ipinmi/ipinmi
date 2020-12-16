@@ -1,7 +1,8 @@
-# Hi there 👋
-[![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif width="40" height="40")
+# Hi there :grinning: 👋
+![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-I am Ipinmi. 
+I am Ipinmi. I’m currently learning and mastering JavaScript, CSS and MERN stack. 
+
 <!--
 **ipinmi/ipinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## :construction: **I build with: **
+## :construction: I build with:
 <a href="https://javascript.com/">
     <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript badge" style="vertical-align:top margin:6px 4px">
  </a>
@@ -41,9 +42,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/ipinmi/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vs code badge" style="vertical-align:top margin:6px 4px">
  </a> 
 
-🌱 I’m currently learning and mastering JavaScript, CSS and MERN stack. 
-
- ## :speech_balloon: **Find me Elsewhere! ** 
+ ## :speech_balloon: Find me Elsewhere!
  <a href="https://mail.google.com">
     <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/social/email_me.svg" alt="email badge" style="vertical-align:top margin:6px 4px">
  </a> 
@@ -56,5 +55,5 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/social/linkedin.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
  </a> 
 
-
+### GitHub Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipinmi)](https://github.com/ipinmi/github-readme-stats)
