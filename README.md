@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif width="40" height="40")
 
 🌱 I’m currently learning JavaScript, CSS and MERN stack. 
 <!--
@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipinmi)](https://github.com/ipinmi/github-readme-stats)
