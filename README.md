@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt text]("https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40" height="40")
+[![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 🌱 I’m currently learning JavaScript, CSS and MERN stack. 
 <!--
