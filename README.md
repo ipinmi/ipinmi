@@ -1,4 +1,4 @@
-# Hi there :grinning: 👋
+### Hi there :grinning: 👋
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 I am Ipinmi. I’m currently learning and mastering JavaScript, CSS and MERN stack. 
