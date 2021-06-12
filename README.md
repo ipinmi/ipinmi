@@ -1,7 +1,7 @@
-### Hi there :grinning: 👋
+### Hii :grinning: 👋
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-I am Ipinmi. I’m currently learning and mastering JavaScript, CSS and MERN stack. 
+I am Ipinmi. I’m currently learning and mastering JavaScript & Python
 
 <!--
 **ipinmi/ipinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
