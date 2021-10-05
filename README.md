@@ -1,7 +1,8 @@
 ### Hii :grinning: 👋
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-I am Ipinmi. I’m currently learning and mastering JavaScript & Python
+I am Ipinmi. 
+- 🔭 I recently started my machine learning journey and I am still learning and mastering Python everyday. 
 
 <!--
 **ipinmi/ipinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,25 +19,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## :construction: I build with:
-<a href="https://javascript.com/">
-    <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript badge" style="vertical-align:top margin:6px 4px">
- </a>
-
 <a href="https://python.org/">
     <img src="https://github.com/ipinmi/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="python badge" style="vertical-align:top margin:6px 4px">
  </a>
  
- <a href="https://sass-lang.com/">
-    <img src="https://github.com/ipinmi/ColoredBadges/blob/master/svg/dev/languages/sass.svg" alt="sass badge" style="vertical-align:top margin:6px 4px">
- </a> 
- 
- <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react badge" style="vertical-align:top margin:6px 4px">
+<a href="https://javascript.com/">
+    <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript badge" style="vertical-align:top margin:6px 4px">
  </a>
- 
-<a href="https://getbootstrap.com/">
-    <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap badge" style="vertical-align:top margin:6px 4px">
- </a>  
+
+ <a href="https://www.tensorflow.org">
+    <img src="(https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" style="vertical-align:top margin:6px 4px">
+ </a> 
  
  <a href="https://code.visualstudio.com/">
     <img src="https://github.com/ipinmi/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vs code badge" style="vertical-align:top margin:6px 4px">
@@ -54,6 +47,3 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/chibundum-adebayo-a10a9313b">
     <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/social/linkedin.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
  </a> 
-
-### GitHub Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipinmi)](https://github.com/ipinmi/github-readme-stats)
