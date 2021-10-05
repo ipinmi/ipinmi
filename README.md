@@ -30,6 +30,7 @@ Here are some ideas to get you started:
  <a href="https://www.tensorflow.org">
     <img src="(https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" style="vertical-align:top margin:6px 4px">
  </a> 
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
  
  <a href="https://code.visualstudio.com/">
     <img src="https://github.com/ipinmi/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vs code badge" style="vertical-align:top margin:6px 4px">
