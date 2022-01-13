@@ -2,7 +2,12 @@
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 I am Ipinmi. 
-- 🔭 I recently started my machine learning journey and I am still learning and mastering Python everyday. 
+- 🔭 I am a data scientist and aspiring data engineer. I am continously learning and mastering Python everyday. 
+- 
+- 👯 I’m looking to collaborate on projects related to: 
+- Natural Language Processing
+- Data Engineering
+- Multilingual Speech Recognition (TTS & STT)
 
 <!--
 **ipinmi/ipinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
