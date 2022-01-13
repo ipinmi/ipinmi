@@ -3,7 +3,7 @@
 
 I am Ipinmi. 
 - 🔭 I am a data scientist and aspiring data engineer. I am continously learning and mastering Python everyday. 
-- 
+
 - 👯 I’m looking to collaborate on projects related to: 
 - Natural Language Processing
 - Data Engineering
