@@ -2,7 +2,7 @@
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 I am Ipinmi. 
-- 🔭 I am a data scientist and aspiring data engineer. I am continously learning and mastering Python everyday. 
+- 🔭 I am a data scientist, continously learning and mastering Python everyday. 
 
 - 👯 I’m looking to collaborate on projects related to: 
 - Natural Language Processing
