@@ -2,12 +2,12 @@
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 I am Ipinmi. 
-- 🔭 I am a data scientist, continously learning and mastering Python everyday. 
+  - 🔭 I am a data scientist, continously learning and mastering Python everyday. 
 
-- 👯 Areas of Interest
-- Natural Language Processing (Multi-lingual and Multi-modal)
-- Multilingual Speech Recognition (TTS & STT)
-- MLOps / ML Observability
+**👯 Areas of Interest**
+  - Natural Language Processing (Multi-lingual and Multi-modal)
+  - Multilingual Speech Recognition (TTS & STT)
+  - MLOps / ML Observability
 
 <!--
 **ipinmi/ipinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
