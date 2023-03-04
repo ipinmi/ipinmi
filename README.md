@@ -24,6 +24,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipinmi&layout=compact&hide=html&theme=dark" alt="ipinmi" /></p>
+<br />
+
  ## :speech_balloon: Find me Elsewhere!
  <a href="https://mail.google.com">
     <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/social/email_me.svg" alt="email badge" style="vertical-align:top margin:6px 4px">
