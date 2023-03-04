@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipinmi&layout=compact&hide=html&theme=dark" alt="ipinmi" /></p>
 <br />
 
+<br />
  ## :speech_balloon: Find me Elsewhere!
  <a href="https://mail.google.com">
     <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/social/email_me.svg" alt="email badge" style="vertical-align:top margin:6px 4px">
@@ -40,3 +41,5 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/chibundum-adebayo-a10a9313b">
     <img src="https://raw.githubusercontent.com/ipinmi/ColoredBadges/master/svg/social/linkedin.svg" alt="linkedin badge" style="vertical-align:top margin:6px 4px">
  </a> 
+ 
+ <br />
