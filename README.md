@@ -7,9 +7,9 @@ I am Ipinmi.
 **👯 Areas of Interest**
   - Computational Linguistics
   - Low resource NLP
-  - Multilingual and Multimodal NLP
-  - Multilingual Speech Recognition (TTS & STT)
-  - Model Interpretability (Linguistic capabilities on shared tasks)
+  - Machine Translation
+  - Multilingual/Multimodal NLP and Speech Recognition (TTS & STT)
+  - Model Interpretability (Linguistic capabilities of Neural Language Models)
 
 <!--
 **ipinmi/ipinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
