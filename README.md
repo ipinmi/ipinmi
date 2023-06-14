@@ -5,9 +5,11 @@ I am Ipinmi.
   - 🔭 I am a data scientist, continously learning and mastering Python everyday. 
 
 **👯 Areas of Interest**
-  - Natural Language Processing (Multi-lingual and Multi-modal)
+  - Computational Linguistics
+  - Low resource NLP
+  - Multilingual and Multimodal NLP
   - Multilingual Speech Recognition (TTS & STT)
-  - MLOps / ML Observability
+  - Model Interpretability (Linguistic capabilities on shared tasks)
 
 <!--
 **ipinmi/ipinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
