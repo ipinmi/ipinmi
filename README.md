@@ -5,11 +5,9 @@ I am Ipinmi.
   - 🔭 I am a data scientist, continously learning and mastering Python everyday. 
 
 **👯 Areas of Interest**
-  - Computational Linguistics
-  - Low resource NLP
-  - Machine Translation
   - Multilingual/Multimodal NLP and Speech Recognition (TTS & STT)
-  - Model Interpretability (Linguistic capabilities of Neural Language Models)
+  - Low resourced NLP
+  - Model Interpretability (Linguistic capabilities and multi-modal spaces)
 
 <!--
 **ipinmi/ipinmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipinmi&layout=compact&hide=html&theme=dark" alt="ipinmi" /></p>
-<br />
