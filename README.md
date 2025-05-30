@@ -1,7 +1,7 @@
 ### Hii :grinning: 👋
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-I am Ipinmi. 
+I am Chibundum. 
   - 🔭 I am a computational linguist specializing in NLP and continously mastering Python everyday. 
 
 **👯 Areas of Interest**
