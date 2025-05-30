@@ -2,7 +2,7 @@
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 I am Ipinmi. 
-  - 🔭 I am a data scientist, continously learning and mastering Python everyday. 
+  - 🔭 I am a computational linguist specializing in NLP and continously mastering Python everyday. 
 
 **👯 Areas of Interest**
   - Multilingual/Multimodal NLP and Speech Recognition (TTS & STT)
